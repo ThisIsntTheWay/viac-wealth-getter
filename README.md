@@ -1,5 +1,5 @@
 # VIAC 3a Wealth Getter
-Gets total monies of a VIAC 3a portfolio.
+Gets total monies of all VIAC 3a portfolios.
 
 ## Usage
 ```bash
